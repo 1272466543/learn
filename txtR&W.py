@@ -39,4 +39,4 @@ with open("date.txt","w",encoding='utf-8') as f:
 	str.strip() 除去文本的空格()
 	str.split() 字符串的切片
 	sorted() 排序函数返回的是一个list
-'''
+''' 
