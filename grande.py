@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 grande={'first':50,'second':65,'third':80}
 exit=int(input('欢迎使用大学成绩登记查询系统！进入系统请按1，请按任意键课退出\n'))
