@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-with open("xyj.txt","r",encoding='utf-8',errors = 'ignore') as f:
+with open("xyj.txt","r",encoding='utf-8',errors = 'ignore') as f:        #读取.txt
 	fr = f.read()
 	
 characters = []
